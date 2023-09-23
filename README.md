@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://github.com/UsmanGhias" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/99526697?v=4" width="200" height="200">
   <h1 align="center">💫 About Me</h1>
   <p align="center"><strong>Passionate Software Engineering Student</strong></p>
 </p>
@@ -96,4 +96,5 @@ Looking forward to connecting and collaborating with like-minded individuals! �
 [![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 Support My Work:
-[![BuyMeACoffee](https://www.buymeacoffee.com/usmanghias)](https://www.buymeacoffee.com/usmanghias)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-%23FFDD00)](https://www.buymeacoffee.com/usmanghias)
+
