@@ -1,7 +1,7 @@
 <!-- Header Section -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/99526697?v=4" width="200" height="200">
+  <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/githubfileH.gif" width="600" height="300">
   <h1 align="center">💫 About Me</h1>
   <p align="center"><strong>Passionate Software Engineering Student</strong></p>
 </p>
