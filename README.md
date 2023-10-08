@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/UsmanGhiasReadFile.png" width="600" height="300">
+  <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/UsmanGhiasReadMeFile.png" width="600" height="300">
   <h1 align="center">ðŸ’« About Me</h1>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
   <p align="center"><strong>Passionate Software Engineering Student</strong></p>
@@ -83,9 +83,7 @@ Looking forward to connecting and collaborating with like-minded individuals! ðŸ
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<p align="center">10 ways to contact me</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-
+<p align="center">Please Write a meesage in Guest Book</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <a href="https://github.com/UsmanGhias/UsmanGhias/issues/1#issuecomment-new"><img src="guestbook.svg"></a> 
