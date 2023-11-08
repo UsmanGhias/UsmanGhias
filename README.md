@@ -22,27 +22,29 @@ I'm Usman Ghias, a passionate software engineering student based in Lahore, Paki
 <!-- Skills Section -->
 #### 🚀 Skills:
 
-- **Backend**: Django, Java (J2EE)
-- **Frontend**: Bootstrap, HTML, CSS, JavaScript
+- **Backend**: Django, Java (J2EE), Tensorflow
+- **Frontend**: Bootstrap, HTML, CSS, JavaScript, Keras
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Deployment**: Heroku, GitHub
+- **Deployment**: Heroku, GitHub, Hugging Face
 - **IDEs**: VS Code, PyCharm, Sublime Text, Anaconda, Eclipse, Jupyter Notebook
 - **Programming Languages**: C, C++, Python, Java, JavaScript, HTML, CSS
-- **Teaching Assistance**: Programming Fundamentals, Computer Networks
-- **Version Control**: Git, GitHub
+- **Teaching Assistance**: Programming Fundamentals, Computer Networks, Data Science
+- **Version Control**: Git, GitHub, Bit Bucket
 
 <!-- Experience Section -->
 #### 🌱 Experience:
 
 - **Web Development**: Proficient in building dynamic and scalable web applications using Django.
 - **Full Stack Web App**: Developing projects in Java (J2EE), demonstrating the transformative impact of this versatile programming language.
+- **Data Science**: Tensorflow, Keras, Pytorch, NumPy, MatplotLib, Web GIS, 10 other python libraries
 
 <!-- Projects Section -->
 #### 💼 Projects:
 
-- **Python Framework**: Crafted E-commerce websites, Real Estate applications, Blogging sites, and Blood Donation Management Systems using Django, PostgreSQL, HTML, CSS, and JavaScript.
+- **Python Framework**: Crafted E-commerce websites, Image Uploading, Real Estate applications, Blogging sites, and Blood Donation Management Systems using Django, PostgreSQL, HTML, CSS, and JavaScript.
 - **Full Stack Web App**: Developed captivating Tour websites, Online Book Management Systems, and Rule-Based Login Systems using Java (J2EE), HTML, CSS, JavaScript, and MySQL database.
-
+- **Data Science**: Automated Deep Learning-based Framework for Monitoring of Debris-Covered Glaciers 
+from Remotely Sensed Images (FYP), Vehicle Fraudulent Detection System, Credit Card Fraud Detection, Tensorflow ChatBot, Movie Recomendation System,Image processing
 <!-- Education Section -->
 #### 📚 Education:
 
@@ -69,7 +71,6 @@ I'm Usman Ghias, a passionate software engineering student based in Lahore, Paki
 - **LinkedIn**: [usman-ghias](https://www.linkedin.com/in/usman-ghias)
 - **GitHub**: [usmanghias](https://www.github.com/usmanghias)
 - **Courses Website**: [COD Crafters](https://www.codcrafters.com)
-- **E-commerce**: [Botanics Bazaar](https://www.botanicsbazaar.com)
 
 Looking forward to connecting and collaborating with like-minded individuals! 😄
 
