@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <p align="center">
   <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/UsmanGhiasReadMeFile.png" width="600" height="400"> </br>
-    <a href="https://www.youtube.com/watch?v=ANlqk4rUisA">Watch my journey</a>
+    <a href="https://usmanghias-portfolio.vercel.app">Portfolio</a>
   <h1 align="center">💫 About Me</h1>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
   <p align="center"><strong>Passionate Software Engineering Student</strong></p>
