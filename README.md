@@ -13,9 +13,12 @@
 I'm Usman Ghias, a passionate software engineering student based in Lahore, Pakistan. Below, you'll find an overview of my skills, experiences, and interests.
 <!-- Starts & Followers -->
 <p align="center">
- <a href="https://github.com/usmanghias?tab=repositories&sort=stargazers">
- <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=523ABF&labelColor=B506E0&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/usmanghias"/></a><a href="https://github.com/usmanghias?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/usmanghias?color=523ABF&labelColor=B506E0&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <a href="https://github.com/usmanghias?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=523ABF&labelColor=8500D9&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/usmanghias"/>
+    </a>
+    <a href="https://github.com/usmanghias?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/usmanghias?color=523ABF&labelColor=8500D9&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    </a>
 </p>
 
 
@@ -70,7 +73,7 @@ from Remotely Sensed Images (FYP), Vehicle Fraudulent Detection System, Credit C
 - **Email**: usmanghias1@gmail.com
 - **LinkedIn**: [usman-ghias](https://www.linkedin.com/in/usman-ghias)
 - **GitHub**: [usmanghias](https://www.github.com/usmanghias)
-- **Courses Website**: [COD Crafters](https://www.codcrafters.com)
+- **Courses Website**: [COD Crafters](https://www.codcrafters.org)
 
 Looking forward to connecting and collaborating with like-minded individuals! 😄
 
