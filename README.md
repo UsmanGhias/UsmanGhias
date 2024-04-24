@@ -1,3 +1,18 @@
+<!-- Badges 
+[![GitHub license](https://img.shields.io/github/license/UsmanGhias/UsmanGhias.svg)](https://github.com/UsmanGhias/UsmanGhias/blob/master/LICENSE)
+
+[![GitHub issues](https://img.shields.io/github/issues/UsmanGhias/UsmanGhias.svg)](https://GitHub.com/UsmanGhias/UsmanGhias/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/UsmanGhias/UsmanGhias.svg)](https://GitHub.com/UsmanGhias/UsmanGhias/pulls/)
+-->
+<p align="center"
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub contributors](https://img.shields.io/github/contributors/UsmanGhias/UsmanGhias.svg)](https://GitHub.com/UsmanGhias/UsmanGhias/graphs/contributors/)
+[![GitHub watchers](https://img.shields.io/github/watchers/UsmanGhias/UsmanGhias.svg?style=social&label=Watch)](https://GitHub.com/UsmanGhias/UsmanGhias/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/UsmanGhias/UsmanGhias.svg?style=social&label=Fork)](https://GitHub.com/UsmanGhias/UsmanGhias/network/)
+[![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/UsmanGhias.svg?style=social&label=Star)](https://GitHub.com/UsmanGhias/UsmanGhias/stargazers/)
+</p>
+
 <!-- Header Section -->
 <p align="center">
   <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/UsmanGhiasReadMeFile.png" width="600" height="400"> </br>
