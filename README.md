@@ -11,6 +11,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/UsmanGhias/UsmanGhias.svg?style=social&label=Watch)](https://GitHub.com/UsmanGhias/UsmanGhias/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/UsmanGhias/UsmanGhias.svg?style=social&label=Fork)](https://GitHub.com/UsmanGhias/UsmanGhias/network/)
 [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/UsmanGhias.svg?style=social&label=Star)](https://GitHub.com/UsmanGhias/UsmanGhias/stargazers/)
+[![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
 </p>
 
 <!-- Header Section -->
@@ -40,7 +41,8 @@ I'm Usman Ghias, a passionate software engineering student based in Lahore, Paki
 <!-- Skills Section -->
 #### 🚀 Skills:
 
-- **Backend**: Django, Java (J2EE), Tensorflow
+- **Backend**: Django, Java (J2EE), Tensorflow, Core Python
+- **ERP**: Odoo Technical (15, 16, 17)
 - **Frontend**: Bootstrap, HTML, CSS, JavaScript, Keras
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Deployment**: Heroku, GitHub, Hugging Face
@@ -52,6 +54,7 @@ I'm Usman Ghias, a passionate software engineering student based in Lahore, Paki
 <!-- Experience Section -->
 #### 🌱 Experience:
 
+- **ERP**: Market Related problem: CRM, Ecommerce, ELearning, POS, Accounting, Chatbots
 - **Web Development**: Proficient in building dynamic and scalable web applications using Django.
 - **Full Stack Web App**: Developing projects in Java (J2EE), demonstrating the transformative impact of this versatile programming language.
 - **Data Science**: Tensorflow, Keras, Pytorch, NumPy, MatplotLib, Web GIS, 10 other python libraries
@@ -59,28 +62,11 @@ I'm Usman Ghias, a passionate software engineering student based in Lahore, Paki
 <!-- Projects Section -->
 #### 💼 Projects:
 
+- **Odoo Module**: Crafted a lot of Odoo Modules solving real time clients problems
 - **Python Framework**: Crafted E-commerce websites, Image Uploading, Real Estate applications, Blogging sites, and Blood Donation Management Systems using Django, PostgreSQL, HTML, CSS, and JavaScript.
 - **Full Stack Web App**: Developed captivating Tour websites, Online Book Management Systems, and Rule-Based Login Systems using Java (J2EE), HTML, CSS, JavaScript, and MySQL database.
 - **Data Science**: Automated Deep Learning-based Framework for Monitoring of Debris-Covered Glaciers 
 from Remotely Sensed Images (FYP), Vehicle Fraudulent Detection System, Credit Card Fraud Detection, Tensorflow ChatBot, Movie Recomendation System,Image processing
-<!-- Education Section -->
-#### 📚 Education:
-
-- **Bachelor of Science in Software Engineering**: Currently pursuing my degree from Punjab University of Information Technology, Lahore, Pakistan.
-- **Pre-Engineering**: Completed at Aspire College, Samundri, Pakistan.
-
-<!-- Professional Development Section -->
-#### 🌟 Professional Development:
-
-- **Amal Academy Fellowship, COD Crafters, Helping Hands**: Actively engaged in these platforms to enhance communication skills, technical business writing, time management, and entrepreneurship.
-- **Teaching Coordinator**: Organized programming sessions and coding hackathons as part of my teaching responsibilities.
-
-<!-- Interests Section -->
-#### 🌍 Interests:
-
-- **Computer**: Deep Learning, Machine Learning, Django, Java, REST API, PostgreSQL, SQL, Odoo, Python, PHP, JavaScript, CSS, HTML5, Android Development
-- **Languages**: Fluent in Urdu and English
-- **Hobbies**: YouTube, Workout, Football, Islamic Economic System
 
 <!-- Contact Information Section -->
 #### 📫 Connect with me:
@@ -128,8 +114,6 @@ Looking forward to connecting and collaborating with like-minded individuals! �
 <!-- Top Contributed Repo Section -->
 ### 🔝 Top Contributed Repo:
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=UsmanGhias&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Snake Grid-->
 <p align="center">
