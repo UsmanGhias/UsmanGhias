@@ -12,6 +12,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/UsmanGhias/UsmanGhias.svg?style=social&label=Fork)](https://GitHub.com/UsmanGhias/UsmanGhias/network/)
 [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/UsmanGhias.svg?style=social&label=Star)](https://GitHub.com/UsmanGhias/UsmanGhias/stargazers/)
 [![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
+[![committers.top badge](https://user-badge.committers.top/pakistan/UsmanGhias.svg)](https://user-badge.committers.top/pakistan/UsmanGhias)
 </p>
 
 <!-- Header Section -->
