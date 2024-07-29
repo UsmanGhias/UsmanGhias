@@ -12,7 +12,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/UsmanGhias/UsmanGhias.svg?style=social&label=Fork)](https://GitHub.com/UsmanGhias/UsmanGhias/network/)
 [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/UsmanGhias.svg?style=social&label=Star)](https://GitHub.com/UsmanGhias/UsmanGhias/stargazers/)
 [![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
-[![committers.top badge](https://user-badge.committers.top/pakistan/UsmanGhias.svg)](https://user-badge.committers.top/pakistan/UsmanGhias)
+</p>
+<p align="center"
+  
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![committers.top badge](https://user-badge.committers.top/pakistan/UsmanGhias.svg)](https://user-badge.committers.top/pakistan/UsmanGhias) 
 </p>
 
 <!-- Header Section -->
@@ -28,7 +32,11 @@
 <!-- Introduction -->
 ### Hi there! 👋
 
-I'm Usman Ghias, a passionate software engineering student based in Lahore, Pakistan. Below, you'll find an overview of my skills, experiences, and interests.
+I'm Usman Ghias,Odoo Technical Developer at Saudi Arabia working remotely and I firmly stand with Palestine.
+<p align="center"
+  
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+</p>
 <!-- Starts & Followers -->
 <p align="center">
     <a href="https://github.com/usmanghias?tab=repositories&sort=stargazers">
