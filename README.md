@@ -1,9 +1,3 @@
-<!-- Badges 
-[![GitHub license](https://img.shields.io/github/license/UsmanGhias/UsmanGhias.svg)](https://github.com/UsmanGhias/UsmanGhias/blob/master/LICENSE)
-
-[![GitHub issues](https://img.shields.io/github/issues/UsmanGhias/UsmanGhias.svg)](https://GitHub.com/UsmanGhias/UsmanGhias/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/UsmanGhias/UsmanGhias.svg)](https://GitHub.com/UsmanGhias/UsmanGhias/pulls/)
--->
 <p align="center"
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -23,19 +17,9 @@
 <p align="center">
   <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/UsmanGhiasReadMeFile.png" width="600" height="400"></br>
   <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/odoo_community_member_rgb.png" width="300" height="200"></br>
-    <a href="https://usmanghias-portfolio.vercel.app"> My Portfolio</a>
-  <h1 align="center">💫 About Me</h1>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-  <p align="center"><strong>Passionate Software Engineering Student</strong></p>
-</p>
-
-<!-- Introduction -->
-### Hi there! 👋
-
-I'm Usman Ghias,Odoo Technical Developer at Saudi Arabia working remotely and I firmly stand with Palestine.
-<p align="center"
-  
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+  <p align="center"><strong>Senior Odoo Technical Develeoper</strong></p>
 </p>
 <!-- Starts & Followers -->
 <p align="center">
@@ -46,45 +30,15 @@ I'm Usman Ghias,Odoo Technical Developer at Saudi Arabia working remotely and I 
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/usmanghias?color=523ABF&labelColor=8500D9&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
     </a>
 </p>
-
-
-<!-- Skills Section -->
-#### 🚀 Skills:
-
-- **Backend**: Django, Java (J2EE), Tensorflow, Core Python
-- **ERP**: Odoo Technical (15, 16, 17)
-- **Frontend**: Bootstrap, HTML, CSS, JavaScript, Keras
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Deployment**: Heroku, GitHub, Hugging Face
-- **IDEs**: VS Code, PyCharm, Sublime Text, Anaconda, Eclipse, Jupyter Notebook
-- **Programming Languages**: C, C++, Python, Java, JavaScript, HTML, CSS
-- **Teaching Assistance**: Programming Fundamentals, Computer Networks, Data Science
-- **Version Control**: Git, GitHub, Bit Bucket
-
-<!-- Experience Section -->
-#### 🌱 Experience:
-
-- **ERP**: Market Related problem: CRM, Ecommerce, ELearning, POS, Accounting, Chatbots
-- **Web Development**: Proficient in building dynamic and scalable web applications using Django.
-- **Full Stack Web App**: Developing projects in Java (J2EE), demonstrating the transformative impact of this versatile programming language.
-- **Data Science**: Tensorflow, Keras, Pytorch, NumPy, MatplotLib, Web GIS, 10 other python libraries
-
-<!-- Projects Section -->
-#### 💼 Projects:
-
-- **Odoo Module**: Crafted a lot of Odoo Modules solving real time clients problems
-- **Python Framework**: Crafted E-commerce websites, Image Uploading, Real Estate applications, Blogging sites, and Blood Donation Management Systems using Django, PostgreSQL, HTML, CSS, and JavaScript.
-- **Full Stack Web App**: Developed captivating Tour websites, Online Book Management Systems, and Rule-Based Login Systems using Java (J2EE), HTML, CSS, JavaScript, and MySQL database.
-- **Data Science**: Automated Deep Learning-based Framework for Monitoring of Debris-Covered Glaciers 
-from Remotely Sensed Images (FYP), Vehicle Fraudulent Detection System, Credit Card Fraud Detection, Tensorflow ChatBot, Movie Recomendation System,Image processing
-
 <!-- Contact Information Section -->
+
 #### 📫 Connect with me:
 
 - **Email**: usmanghias1@gmail.com
-- **LinkedIn**: [usman-ghias](https://www.linkedin.com/in/usman-ghias)
+- **LinkedIn**: [m-usmanghias](https://www.linkedin.com/in/m-usmanghias)
 - **GitHub**: [usmanghias](https://www.github.com/usmanghias)
 - **Courses Website**: [COD Crafters](https://www.codcrafters.org)
+- **Portfolio**: [My Portfolio](https://usmanghias-portfolio.vercel.app)
 
 Looking forward to connecting and collaborating with like-minded individuals! 😄
 
