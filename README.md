@@ -1,14 +1,7 @@
 <p align="center"
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub contributors](https://img.shields.io/github/contributors/UsmanGhias/UsmanGhias.svg)](https://GitHub.com/UsmanGhias/UsmanGhias/graphs/contributors/)
-[![GitHub watchers](https://img.shields.io/github/watchers/UsmanGhias/UsmanGhias.svg?style=social&label=Watch)](https://GitHub.com/UsmanGhias/UsmanGhias/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/UsmanGhias/UsmanGhias.svg?style=social&label=Fork)](https://GitHub.com/UsmanGhias/UsmanGhias/network/)
-[![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/UsmanGhias.svg?style=social&label=Star)](https://GitHub.com/UsmanGhias/UsmanGhias/stargazers/)
 [![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
-</p>
-<p align="center"
-  
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 [![committers.top badge](https://user-badge.committers.top/pakistan/UsmanGhias.svg)](https://user-badge.committers.top/pakistan/UsmanGhias) 
 </p>
@@ -19,7 +12,7 @@
   <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/odoo_community_member_rgb.png" width="300" height="200"></br>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-  <p align="center"><strong>Senior Odoo Technical Develeoper</strong></p>
+  <p align="center"><strong>Senior Odoo Techno Functional</strong></p>
 </p>
 <!-- Starts & Followers -->
 <p align="center">
@@ -36,7 +29,7 @@
 
 - **Email**: usmanghias1@gmail.com
 - **LinkedIn**: [m-usmanghias](https://www.linkedin.com/in/m-usmanghias)
-- **GitHub**: [usmanghias](https://www.github.com/usmanghias)
+- **WhatsApp**: [+923126912440](https://wa.me/923126912440)
 - **Courses Website**: [COD Crafters](https://www.codcrafters.org)
 - **Portfolio**: [My Portfolio](https://usmanghias-portfolio.vercel.app)
 
@@ -51,6 +44,29 @@ Looking forward to connecting and collaborating with like-minded individuals! ðŸ
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
+## ðŸš€ Skills & Technologies
+
+### Odoo Development:
+- **Odoo Versions**: 15, 16, 17 (Community & Enterprise)
+- **Specializations**: 
+  - Module Development & Customization
+  - Purchase & Sale Level Approval Flow
+  - Point of Sale System
+  - Advanced Functionalities for Car Repair Workshop
+  - Invoices, Quotations, and Receipts Management
+
+### Programming Languages & Tools:
+- **Languages**: Python, C, C++, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React, Bootstrap, Django, Django REST Framework, jQuery
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
+- **Development Tools**: VS Code, PyCharm, Anaconda, Git, GitHub
+
+### Other Technologies:
+- **Cloud Platforms**: Azure, Heroku, Firebase
+- **Machine Learning & NLP**: Developed Credit Card, Vehicle Fraud Detection System, and Recommendation Systems
+- **Web Development**: Full Stack Projects including Chat Applications and E-commerce platforms
+
+---
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">Please Write a meesage in Guest Book</p>
