@@ -1,4 +1,9 @@
 <p align="center"
+  
+[![140 Repositories](https://img.shields.io/badge/GitHub-140%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/UsmanGhias?tab=repositories)
+</p>
+
+<p align="center"
 
 [![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
