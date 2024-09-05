@@ -9,16 +9,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 [![committers.top badge](https://user-badge.committers.top/pakistan/UsmanGhias.svg)](https://user-badge.committers.top/pakistan/UsmanGhias) 
+<h1 align="center"><strong>Senior Odoo Techno Functional</strong></h1>
+
 </p>
 
-<!-- Header Section -->
-<p align="center">
-  <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/UsmanGhiasReadMeFile.png" width="600" height="400"></br>
-  <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/odoo_community_member_rgb.png" width="300" height="200"></br>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-  <p align="center"><strong>Senior Odoo Techno Functional</strong></p>
-</p>
 <!-- Starts & Followers -->
 <p align="center">
     <a href="https://github.com/usmanghias?tab=repositories&sort=stargazers">
@@ -32,13 +26,23 @@
 
 #### 📫 Connect with me:
 
-- **Email**: usmanghias1@gmail.com
+- **Email**: iusmanghias@gmail.com
 - **LinkedIn**: [m-usmanghias](https://www.linkedin.com/in/m-usmanghias)
 - **WhatsApp**: [+923126912440](https://wa.me/923126912440)
-- **Courses Website**: [COD Crafters](https://www.codcrafters.org)
-- **Portfolio**: [My Portfolio](https://usmanghias-portfolio.vercel.app)
+- **Web App**: [COD Crafters](https://www.codcrafters.org)
+- **Portfolio**: [Usman Ghias](https://usmanghias-portfolio.vercel.app)
 
 Looking forward to connecting and collaborating with like-minded individuals! 😄
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
+<!-- Header Section -->
+<p align="center">
+  <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/UsmanGhiasReadMeFile.png" width="600" height="400"></br>
+  <img src="https://github.com/UsmanGhias/UsmanGhias/blob/main/odoo_community_member_rgb.png" width="300" height="200"></br>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+</p>
 
 <!-- Social Media Section -->
 ## 🌐 Socials:
