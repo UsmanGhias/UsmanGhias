@@ -1,6 +1,6 @@
 <p align="center"
   
-[![140 Repositories](https://img.shields.io/badge/GitHub-140%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/UsmanGhias?tab=repositories)
+[![150 Repositories](https://img.shields.io/badge/GitHub-140%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/UsmanGhias?tab=repositories)
 </p>
 
 <p align="center"
