@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 [![committers.top badge](https://user-badge.committers.top/pakistan/UsmanGhias.svg)](https://user-badge.committers.top/pakistan/UsmanGhias) 
-<h1 align="center"><strong>Senior Odoo Techno Functional</strong></h1>
+<h1 align="center"><strong>Senior Odoo Developer</strong></h1>
 
 </p>
 
