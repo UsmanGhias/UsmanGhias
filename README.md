@@ -5,7 +5,7 @@
 
 <p align="center"
 
-[![Profile Visitors](https://visitcount.itsvg.in/api?id=UsmanGhias&icon=2&color=3)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=UsmanGhias&color=brightgreen)](https://github.com/UsmanGhias)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 [![committers.top badge](https://user-badge.committers.top/pakistan/UsmanGhias.svg)](https://user-badge.committers.top/pakistan/UsmanGhias) 
