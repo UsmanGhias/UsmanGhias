@@ -84,9 +84,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=usmanghias&show_icons=true&theme=react&hide_border=true&bg_color=111827&title_color=38BDF8&text_color=fff&icon_color=F87171&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanghias&theme=react&hide_border=true&background=111827&stroke=38BDF8&ring=38BDF8&fire=F87171&currStreakLabel=38BDF8&sideLabels=fff&currStreakNum=fff&sideNums=fff" alt="GitHub Streak" />
-      </td>
     </tr>
   </table>
 </div>
