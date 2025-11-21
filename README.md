@@ -15,7 +15,7 @@
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/Focus-Odoo%20%7C%20MERN%20%7C%20Python-38BDF8?style=for-the-badge&logo=target&logoColor=white&labelColor=111827" />
   <img src="https://img.shields.io/badge/Level-Senior%20Architect-F87171?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-10B981?style=for-the-badge&logo=clockify&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Experience-4.5%2B%20Years-10B981?style=for-the-badge&logo=clockify&logoColor=white&labelColor=111827" />
 </div>
 
 <br/>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/github/followers/usmanghias?style=for-the-badge&color=F87171&labelColor=111827&logo=github&label=FOLLOWERS" />
   </a>
   <a href="https://linkedin.com/in/m-usmanghias">
-    <img src="https://img.shields.io/badge/LINKEDIN-7K+-10B981?style=for-the-badge&labelColor=111827&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-12k+-10B981?style=for-the-badge&labelColor=111827&logo=linkedin" />
   </a>
   <a href="https://github.com/usmanghias?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/usmanghias?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
@@ -63,7 +63,7 @@
       <td align="center">
         <h3>🎯 Professional Excellence</h3>
         <p align="left">
-          <b>🏆 4+ Years</b> of Elite Programming<br/>
+          <b>🏆 4.5+ Years</b> of Elite Programming<br/>
           <b>📊 150+ Projects</b> Successfully Delivered<br/>
           <b>🔧 Expert</b> in Odoo ERP & MERN Stack<br/>
           <b>🏗️ Architect</b> of Enterprise Solutions<br/>
@@ -259,7 +259,7 @@
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/m-usmanghias">
-    <img src="https://img.shields.io/badge/LinkedIn-7K%2B%20Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-12K%2B%20Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:iusmanghias@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F87171" />
