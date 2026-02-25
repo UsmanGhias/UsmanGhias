@@ -15,7 +15,7 @@
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/Focus-Odoo%20%7C%20MERN%20%7C%20Python-38BDF8?style=for-the-badge&logo=target&logoColor=white&labelColor=111827" />
   <img src="https://img.shields.io/badge/Level-Senior%20Architect-F87171?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Experience-4.5%2B%20Years-10B981?style=for-the-badge&logo=clockify&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Experience-5.5%2B%20Years-10B981?style=for-the-badge&logo=clockify&logoColor=white&labelColor=111827" />
 </div>
 
 <br/>
@@ -26,13 +26,13 @@
     <img src="https://img.shields.io/github/followers/usmanghias?style=for-the-badge&color=F87171&labelColor=111827&logo=github&label=FOLLOWERS" />
   </a>
   <a href="https://linkedin.com/in/m-usmanghias">
-    <img src="https://img.shields.io/badge/LINKEDIN-12k+-10B981?style=for-the-badge&labelColor=111827&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-14K+-10B981?style=for-the-badge&labelColor=111827&logo=linkedin" />
   </a>
   <a href="https://github.com/usmanghias?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/usmanghias?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <a href="https://github.com/usmanghias?tab=repositories">
-    <img alt="repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/Repos-260+-blue.svg?style=for-the-badge&logoColor=white&logo=repo"/>
+    <img alt="repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/Repos-270+-blue.svg?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=usmanghias&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 </div>
