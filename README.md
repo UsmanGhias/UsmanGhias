@@ -56,7 +56,7 @@
 Muhammad Usman Ghias:
   role:        "Elite Full-Stack Developer & System Architect"
   founder_of:  "CODCrafters"
-  experience:  "4.5+ years of elite programming"
+  experience:  "5+ years of elite programming"
   delivered:   "150+ production projects worldwide"
   location:    "Pakistan  ·  Available Worldwide  🌍"
   focus:       ["Odoo ERP", "MERN Stack", "Cloud & DevOps"]
