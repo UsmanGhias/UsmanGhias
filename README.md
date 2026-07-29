@@ -6,6 +6,17 @@
 <a href="https://usman.codcrafters.org">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Muhammad%20Usman%20Ghias&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Odoo%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Founder%20%40%20CODCrafters&descAlignY=58&descSize=18" width="100%" />
 </a>
+<td width="38%" valign="top" align="center">
+  <p align="center">
+    <a href="https://usman.codcrafters.org">
+      <img
+        src="./usman-open-source-king-github-banner.png"
+        width="100%"
+        alt="Muhammad Usman Ghias | Open Source King | Senior Odoo Developer and Full-Stack Architect"
+      />
+    </a>
+  </p>
+</td>
 
 <div align="center">
 
@@ -98,27 +109,6 @@ Muhammad Usman Ghias:
     <li>🤝 <b>Team-ready engineer</b> — experienced with async collaboration, code reviews, mentoring and global time zones.</li>
     <li>💬 Ask me about <b>Odoo, MERN, APIs, microservices & cloud-native architecture</b>.</li>
   </ul>
-
-  </tr>
-    <td width="38%" valign="top" align="center">
-      <p align="center">
-        <a href="https://usman.codcrafters.org">
-          <img
-            src="./usman-open-source-king-github-banner.png"
-            width="100%"
-            alt="Muhammad Usman Ghias | Open Source King | Senior Odoo Developer and Full-Stack Architect"
-          />
-        </a>
-      </p>
-      <br/>
-      <a href="https://usman.codcrafters.org">
-        <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-      </a>
-      <br/>
-      <a href="mailto:iusmanghias@gmail.com?subject=Let's%20Work%20Together">
-        <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Hire%20Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -347,19 +337,7 @@ Muhammad Usman Ghias:
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanghias&layout=compact&theme=react&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=ffffff&langs_count=10" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanghias&bg_color=0B1120&color=38BDF8&line=38BDF8&point=F87171&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
-</div>
-
-<h2 align="center">🏅 Achievements</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmanghias&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 </div>
 
 <!-- ====================================================================== -->
@@ -417,7 +395,6 @@ Muhammad Usman Ghias:
     <br/>
     <b>Send me a short message with your goal, current stack and expected timeline.</b>
   </p>
-
   <a href="mailto:iusmanghias@gmail.com?subject=Work%20Opportunity%20for%20Usman">
     <img src="https://img.shields.io/badge/%F0%9F%92%BC%20I'M%20AVAILABLE-LET'S%20TALK-10B981?style=for-the-badge&labelColor=0B1120" />
   </a>
