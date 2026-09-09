@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://usman.codcrafters.org">
       <img
-        src="./usman-open-source-king-github-banner.png"
+        src="usman-open-source-king-github-banner.png"
         width="100%"
         alt="Muhammad Usman Ghias | Open Source King | Senior Odoo Developer and Full-Stack Architect"
       />
