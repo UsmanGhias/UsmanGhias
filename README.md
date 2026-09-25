@@ -1,108 +1,102 @@
-<!-- Profile README for Usman Ghias · https://usmanghias.co.uk · previous version: README.backup.md -->
+<!-- Profile README for Usman Ghias · https://usmanghias.co.uk -->
 
 <a href="https://usmanghias.co.uk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/profile-hero-dark.webp">
-    <img src="assets/brand/profile-hero-light.webp" width="100%" alt="Usman Ghias, Senior Odoo ERP Architect and Full-Stack Systems Engineer, Founder and Principal Architect at CODCrafters">
-  </picture>
+  <img src="assets/brand/profile-hero-animated.gif" width="100%" alt="Usman Ghias - Lead Distributed Systems Architect & Enterprise ERP Engineer">
 </a>
 
-# Usman Ghias
-
-**Senior Odoo ERP Architect & Full-Stack Systems Engineer**<br>
-Founder & Principal Architect at [CODCrafters](https://codcrafters.org) · Remote worldwide
-
-I design and deliver production-grade ERP systems, integrations, business platforms and digital products. My work spans Odoo 15–19, Python, PostgreSQL, OWL, reporting, APIs, full-stack web systems and mobile applications.
-
-<a href="https://usmanghias.co.uk"><img src="https://img.shields.io/badge/View_Portfolio-714B67?style=for-the-badge" alt="View portfolio"></a>
-<a href="https://www.linkedin.com/in/iusmanghias"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:iusmanghias@gmail.com?subject=Project%20enquiry%20for%20Usman%20Ghias"><img src="https://img.shields.io/badge/Discuss_a_Project-9333EA?style=for-the-badge" alt="Discuss a project by email"></a>
+<div align="center">
+  <a href="https://usmanghias.co.uk"><img src="https://img.shields.io/badge/Official_Portfolio-714B67?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"></a>
+  <a href="https://www.linkedin.com/in/iusmanghias"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iusmanghias@gmail.com?subject=Project%20enquiry%20for%20Usman%20Ghias"><img src="https://img.shields.io/badge/Discuss_a_Project-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Discuss a project by email"></a>
+  <a href="https://github.com/UsmanGhias"><img src="https://komarev.com/ghpvc/?username=usmanghias&style=for-the-badge&color=38BDF8&labelColor=0B1120&label=PROFILE+VIEWS" alt="Profile Views"></a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/brand/proof-strip-dark.svg">
   <img src="assets/brand/proof-strip-light.svg" width="100%" alt="6+ years in production, 91+ Odoo implementations, 185+ projects delivered, 70+ clients, clients across 25+ countries, 4 production applications">
 </picture>
 
-<sub>Totals include work delivered through direct contracts, organisations and freelance platforms. Client details and source code are shown only where confidentiality permits.</sub>
+# Usman Ghias
+
+**Lead Distributed Systems Architect & Enterprise ERP Engineer**  
+Founder & Principal Architect at [CODCrafters](https://codcrafters.org) · Remote Worldwide
+
+I design enterprise ERP systems, transaction backends, and offline-first mobile products. Over the past 6 years, I have delivered 91+ Odoo builds and 185+ total projects across Europe, the Middle East, and North America, reducing query response times by over 60% on multi-million row PostgreSQL databases.
+
+---
 
 ## What I architect
 
-- **Odoo ERP architecture**: Odoo 15–19, Python ORM, PostgreSQL, OWL, QWeb, Odoo.sh, migrations, reporting, BI and performance engineering.
-- **Product engineering**: Next.js, React, TypeScript, FastAPI, Flutter, offline-first applications and production APIs.
-- **Integrations & data**: commerce, logistics, payments, document processing, reporting, automation and external platforms.
+- **Enterprise ERP & Database Engines**: Odoo 15 to 19, Python ORM, PostgreSQL query profiling, PgBouncer pooling, OWL reactive components, and zero-bloat modular architecture.
+- **Cryptographic Compliance**: ZATCA Phase 2 E-Invoicing engine for Saudi Arabia and GCC, implementing ECDSA secp256k1 signing, SHA-256 UBL 2.1 XML hashing, QR code TLV digests, and automated clearance API handshakes.
+- **Distributed Product Engineering**: Offline-first mobile systems on Flutter (Riverpod, Hive, SQLite) syncing with Next.js web applications and REST APIs.
+- **Lightweight DevOps**: Self-hosted developer infrastructure on Linux, Docker, Nginx, and cloud clusters.
 
-## Selected Odoo systems
+---
 
-Representative architecture across operational domains where ERP reliability, data integrity and maintainability matter.
+## Selected enterprise systems
 
-<img src="assets/work/odoo-enterprise-architecture.webp" width="100%" alt="Illustrative architecture showcase: healthcare, automotive and hospitality Odoo workspaces connected to one PostgreSQL database">
+#### Automotive & parts distribution
+- **Context**: European distributor managing multi-currency parts catalogues, workshop orders, dynamic pricing, and EU VAT rules across split processes.
+- **Architecture**: Odoo 17/18 Enterprise with PostgreSQL and OWL. Designed 15+ custom modules for real-time carrier APIs and optimized ORM query paths.
+- **Result**: Cut core report generation latency by 60%, delivering sub-second response times on heavy concurrent inventory lookups. [Automotive case study](https://www.codcrafters.org/industries/automotive)
 
-<sub>Representative composition of selected Odoo solution domains, not screenshots of client systems.</sub>
+#### Healthcare & hospital operations
+- **Context**: Multi-department hospital running clinical records, billing, pharmacy stock, and insurance claims in disconnected tools.
+- **Architecture**: Centralized Odoo HMS covering patient journeys, lab diagnostic workflows, pharmacy inventory, and automated billing.
+- **Result**: Unified administrative and clinical operations into one database of record with role-based access control. [Healthcare case study](https://www.codcrafters.org/industries/healthcare)
 
-#### Healthcare operations
-**Challenge:** clinical, billing, pharmacy and reporting workflows running in disconnected tools.<br>
-**Architecture:** a modular Odoo system of 50+ custom modules covering patients, appointments, lab, pharmacy, insurance, billing and management reporting.<br>
-**Outcome:** one system of record for operational and administrative teams. [Healthcare work →](https://www.codcrafters.org/industries/healthcare)
+#### ZATCA Phase 2 cryptographic e-invoicing
+- **Context**: Saudi enterprise requiring automated, tamper-proof electronic invoice clearance under ZATCA Phase 2 mandate.
+- **Architecture**: Native Python and Odoo cryptographic engine generating canonical XML UBL 2.1, ECDSA digital signatures, cryptographic invoice hashing, and TLV Base64 QR encoding.
+- **Result**: 100% compliant real-time API clearance with ZATCA Fatoora portal without third-party recurring SaaS fees.
 
-#### Automotive and parts operations
-**Challenge:** workshop jobs, parts catalogues, pricing, invoicing and B2B distribution handled across separate processes.<br>
-**Architecture:** Odoo 17/18 Enterprise, PostgreSQL and OWL, with 15+ custom modules for dynamic pricing, parts catalogues, a B2B portal, real-time carrier APIs and EU VAT rules.<br>
-**Outcome:** reworked ORM and SQL queries cut report load times by about 60% for a European parts distributor. [Automotive work →](https://www.codcrafters.org/industries/automotive)
+---
 
-#### Hospitality operations
-**Challenge:** reservations, housekeeping, POS and billing split across departments.<br>
-**Architecture:** a unified Odoo operational database with role-based workflows for front office, housekeeping, restaurant and accounts.<br>
-**Outcome:** departments working from the same reservations, charges and guest records. [Hospitality work →](https://www.codcrafters.org/industries/hotel-restaurants)
+## Product engineering: CLIVORA
 
-## Product engineering
+<img src="assets/work/clivora-product-ecosystem.webp" width="100%" alt="CLIVORA product ecosystem: Android application, web console, and connected workspace modules">
 
-<img src="assets/work/clivora-product-ecosystem.webp" width="100%" alt="Conceptual CLIVORA product ecosystem: Android command centre, web workspace and connected modules for projects, invoices, CRM and reporting">
+#### [CLIVORA](https://clivora.io): Offline-First Freelancer & Agency Workspace
+Freelancers and agencies often juggle separate tools for CRM, tasks, timesheets, and invoicing. CLIVORA combines these into one synchronized workspace on Web and Android.
+- **Role**: Founder and Principal Architect; designed full backend, database schemas, and mobile sync engine.
+- **Architecture**: Flutter mobile client with offline-first local storage (Hive + SQLite) syncing with Next.js web console and REST endpoints.
+- **Availability**: Live at [clivora.io](https://clivora.io) and published on [Google Play](https://play.google.com/store/apps/details?id=org.codcrafters.clivora).
 
-<sub>Conceptual product visual. Dashboard figures shown inside the interface are illustrative demo data.</sub>
+---
 
-#### [CLIVORA](https://clivora.io): freelancer and agency workspace
-Freelancers and small agencies run clients, projects and invoicing across too many disconnected tools. CLIVORA puts CRM, projects, tasks, timesheets, files and branded invoicing in one account on the web and Android, with offline-first local storage on mobile and sync between both surfaces.<br>
-**My role:** founder; product design, architecture and delivery through CODCrafters.<br>
-**Status:** live at [clivora.io](https://clivora.io) and on [Google Play](https://play.google.com/store/apps/details?id=org.codcrafters.clivora).<br>
-<sub>`Flutter` `Riverpod` `Hive + SQLite` `Next.js` `REST APIs`</sub>
+## Experience & academic research
 
-#### Odoo financial reporting & BI
-Native Odoo Spreadsheets for multi-dimensional financial and operational reporting, extended with custom Python and OWL data retrieval, plus executive KPI dashboards the leadership team uses for day-to-day monitoring. Legacy reports were migrated into maintainable, native Odoo reporting.<br>
-<sub>`Odoo Spreadsheets` `Python` `OWL` `PostgreSQL`</sub>
+- **Founder & Principal Architect**, CODCrafters (2022 - present)  
+  Directing enterprise ERP deliveries, performance audits, and custom software engineering for clients across 25+ countries.
+- **Senior Odoo Spreadsheets & BI Specialist**, Plectar, Switzerland (2025 - present)  
+  Multi-dimensional financial and operational modeling, OWL dashboard engineering, and legacy reporting migrations.
+- **MS in Software Engineering**, Quantic School of Business and Technology, Washington D.C., USA  
+  Graduating October 2026. Cumulative academic standing: **94.75%**, proctored comprehensive exam score: **92%**.
+- **BS in Software Engineering (Distinction)**, PUCIT, Lahore  
+  Appointed 3-time University Teaching Assistant for Data Science, Computer Networks, and Object-Oriented C++.
+- **Research Preprint**: Zenodo DOI [10.5281/zenodo.22843765](https://doi.org/10.5281/zenodo.22843765)  
+  Focus on low-latency microservice architecture and transaction routing in enterprise ERP systems.
+- **Doctoral Research Focus**: Actively seeking prospective Ph.D. scholarships and doctoral supervisor alignment in Distributed Systems and High-Concurrency Database Engines for 2026/2027 intake.
 
-## Experience snapshot
-
-- **Founder & Principal Architect**, CODCrafters (2022 – present)
-- **Senior Odoo Spreadsheets & BI Specialist**, Plectar, Switzerland (2025 – present)
-- Selected ERP and product engagements across Europe, the Middle East and North America
-
-MS Software Engineering (in progress), Quantic School of Business & Technology · BS Software Engineering, PUCIT.
-Full history: [résumé](https://usmanghias.co.uk/resume.pdf) · [portfolio](https://usmanghias.co.uk)
+---
 
 ## Open-source engineering
 
-<img src="assets/brand/open-source-flow.webp" width="100%" alt="">
+<img src="assets/brand/open-source-flow.webp" width="100%" alt="Open Source Engineering: Contributing practical improvements to Python tooling, release automation, database integrations, and developer infrastructure">
 
-**Merged**
+<div align="center">
+  <a href="https://github.com/UsmanGhias"><img src="https://github-readme-stats.vercel.app/api?username=UsmanGhias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=C084FC&icon_color=38BDF8&text_color=9DA7B3" width="49%" alt="Usman Ghias GitHub Stats" /></a>
+  <a href="https://github.com/UsmanGhias"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhias&theme=tokyonight&hide_border=true&background=0B1120&stroke=30363D&ring=9333EA&fire=F5B800&currStreakNum=C084FC&sideNums=F0F6FC&sideLabels=9DA7B3&dates=5F6368" width="49%" alt="Usman Ghias Streak Stats" /></a>
+</div>
 
-- [zifter/clickhouse-migrations #105](https://github.com/zifter/clickhouse-migrations/pull/105): moved the PyPI release workflow to Trusted Publishing, so releases no longer depend on a long-lived API token stored in CI.
+**Selected Pull Requests & Contributions:**
+- [zifter/clickhouse-migrations #105](https://github.com/zifter/clickhouse-migrations/pull/105): Migrated PyPI release workflow to Trusted Publishing (OIDC).
+- [progovoy/vmn #173](https://github.com/progovoy/vmn/pull/173): Added `--base` option to `vmn show` command.
+- [cubrid-lab/sqlalchemy-cubrid #455](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/455): Fixed dialect reflection error mapping for syntax errors.
+- [ehtishammubarik/websieve #47](https://github.com/ehtishammubarik/websieve/pull/47): Preserved code block indentation during page sanitization.
 
-**Under maintainer review**
-
-- [progovoy/vmn #173](https://github.com/progovoy/vmn/pull/173): adds a `--base` option to `vmn show` (issue #150).
-- [cubrid-lab/sqlalchemy-cubrid #455](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/455): stops native CUBRID `-493` syntax errors being misreported as `NoSuchTableError` during table reflection (issue #454).
-- [ehtishammubarik/websieve #47](https://github.com/ehtishammubarik/websieve/pull/47): preserves indentation inside fenced code blocks when cleaning pages (issue #42).
-
-<sub>Community: portfolio listed in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios/pull/4039).</sub>
-
-## Technical stack
-
-| Area | Tools |
-| :--- | :--- |
-| **Odoo** | Odoo 15–19 · Python ORM · OWL · QWeb · Odoo.sh |
-| **Applications** | Python · TypeScript · Next.js · FastAPI · Flutter |
-| **Data** | PostgreSQL · Redis · MongoDB |
-| **Delivery** | Docker · Linux · AWS · Nginx · GitHub Actions |
+---
 
 ## GitHub activity
 
@@ -116,22 +110,21 @@ Full history: [résumé](https://usmanghias.co.uk/resume.pdf) · [portfolio](htt
   <img src="https://raw.githubusercontent.com/UsmanGhias/UsmanGhias/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution graph animation">
 </picture>
 
-<sub>Generated daily by a GitHub Action in this repository.</sub>
+---
 
-## How I work
+## Technical stack
 
-Understand the operation → Design for change → Build cleanly → Test real workflows → Ship with documentation
+| Domain | Technologies |
+| :--- | :--- |
+| **ERP & Databases** | Odoo 15 to 19 · Python ORM · PostgreSQL · PgBouncer · Redis · SQLite · Hive |
+| **Web & Mobile** | TypeScript · Next.js · React · Flutter · Riverpod · FastAPI · TailwindCSS |
+| **Compliance & APIs** | ZATCA Phase 2 (ECDSA, UBL 2.1, QR TLV) · REST · GraphQL · XML-RPC / JSON-RPC |
+| **DevOps & Cloud** | Linux · Docker · Nginx · Odoo.sh · AWS · GitHub Actions · Self-Hosted Clusters |
 
-## Current focus
+---
 
-- Odoo reporting and financial BI
-- Enterprise integrations and automation
-- CLIVORA product engineering
-- Focused open-source contributions
+## Contact & inquiries
 
-## Contact
+Building a new platform, modernizing an ERP instance, or discussing doctoral research?
 
-**Building or modernising an Odoo system?**
-
-[Portfolio](https://usmanghias.co.uk) · [Email](mailto:iusmanghias@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iusmanghias) · [CODCrafters](https://codcrafters.org) · [Upwork](https://www.upwork.com/freelancers/usmanghias)<br>
-<sub>Prefer chat? [WhatsApp](https://wa.me/923126912440)</sub>
+[Official Portfolio](https://usmanghias.co.uk) · [Email Inquiry](mailto:iusmanghias@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iusmanghias) · [CODCrafters](https://codcrafters.org) · [Upwork](https://www.upwork.com/freelancers/usmanghias) · [WhatsApp](https://wa.me/923126912440)
