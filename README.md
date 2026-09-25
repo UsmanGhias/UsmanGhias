@@ -34,7 +34,11 @@ I design enterprise ERP systems, transaction backends, and offline-first mobile 
 
 ---
 
-## Selected enterprise systems
+## Enterprise systems: [CODCrafters](https://codcrafters.org)
+
+<a href="https://codcrafters.org">
+  <img src="assets/brand/codcrafters-enterprise-ecosystem.webp" width="100%" alt="CODCrafters: Enterprise Odoo, integrations, AI, mobile apps and the systems connected to them">
+</a>
 
 #### Automotive & parts distribution
 - **Context**: European distributor managing multi-currency parts catalogues, workshop orders, dynamic pricing, and EU VAT rules across split processes.
@@ -86,9 +90,20 @@ Freelancers and agencies often juggle separate tools for CRM, tasks, timesheets,
 <img src="assets/brand/open-source-flow.webp" width="100%" alt="Open Source Engineering: Contributing practical improvements to Python tooling, release automation, database integrations, and developer infrastructure">
 
 <div align="center">
-  <a href="https://github.com/UsmanGhias"><img src="https://github-readme-stats.vercel.app/api?username=UsmanGhias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=C084FC&icon_color=38BDF8&text_color=9DA7B3" width="49%" alt="Usman Ghias GitHub Stats" /></a>
-  <a href="https://github.com/UsmanGhias"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhias&theme=tokyonight&hide_border=true&background=0B1120&stroke=30363D&ring=9333EA&fire=F5B800&currStreakNum=C084FC&sideNums=F0F6FC&sideLabels=9DA7B3&dates=5F6368" width="49%" alt="Usman Ghias Streak Stats" /></a>
+  <a href="https://github.com/UsmanGhias"><img src="https://img.shields.io/badge/Open_Source-Active_Contributions-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributions" /></a>
+  <a href="https://github.com/UsmanGhias"><img src="https://img.shields.io/badge/Pull_Requests-Merged_&_Active-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Pull Requests" /></a>
+  <a href="https://github.com/UsmanGhias"><img src="https://img.shields.io/badge/Code_Reviews-Active_Maintainer-38BDF8?style=for-the-badge&logo=githubactions&logoColor=white" alt="Code Reviews" /></a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/UsmanGhias">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhias&theme=tokyonight&hide_border=true&background=0B1120&stroke=30363D&ring=9333EA&fire=F5B800&currStreakNum=C084FC&sideNums=F0F6FC&sideLabels=9DA7B3&dates=5F6368" alt="Usman Ghias GitHub Streak Stats" />
+  </a>
+</div>
+
+<br/>
 
 **Selected Pull Requests & Contributions:**
 - [zifter/clickhouse-migrations #105](https://github.com/zifter/clickhouse-migrations/pull/105): Migrated PyPI release workflow to Trusted Publishing (OIDC).
