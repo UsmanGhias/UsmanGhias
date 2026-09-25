@@ -179,13 +179,13 @@ I welcome focused issues and pull requests on my public repositories, especially
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Odoo_15–19-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo 15 to 19">
+  <img src="https://img.shields.io/badge/Odoo_15%E2%80%9319-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo 15 to 19">
   <img src="https://img.shields.io/badge/OWL-714B67?style=flat-square" alt="OWL">
   <img src="https://img.shields.io/badge/QWeb-714B67?style=flat-square" alt="QWeb">
   <img src="https://img.shields.io/badge/Odoo.sh-714B67?style=flat-square" alt="Odoo.sh">
   <img src="https://img.shields.io/badge/Shopify-9333EA?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
   <img src="https://img.shields.io/badge/WooCommerce-9333EA?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/OpenAI_·_Claude_APIs-168BD2?style=flat-square" alt="OpenAI and Claude APIs">
+  <img src="https://img.shields.io/badge/OpenAI_%C2%B7_Claude_APIs-168BD2?style=flat-square" alt="OpenAI and Claude APIs">
   <img src="https://img.shields.io/badge/Supabase-168BD2?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
