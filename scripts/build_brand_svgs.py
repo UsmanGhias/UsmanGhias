@@ -50,16 +50,10 @@ def proof_strip(t):
             f'<g font-family="{FONT}">{"".join(cells)}</g></svg>\n')
 
 
-def divider(t):
-    return ('<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="8" viewBox="0 0 1280 8" role="presentation">'
-            f'<defs>{gradient(t)}</defs><rect x="0" y="3" width="1280" height="2" rx="1" fill="url(#g)"/></svg>\n')
-
-
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     for name, t in THEMES.items():
         (OUT / f"proof-strip-{name}.svg").write_text(proof_strip(t))
-        (OUT / f"divider-{name}.svg").write_text(divider(t))
     print(f"wrote brand SVGs to {OUT}")
 
 
