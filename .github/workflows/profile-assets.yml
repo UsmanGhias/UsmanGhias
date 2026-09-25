@@ -26,6 +26,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Runs before snk, whose container writes dist/ as root.
+      - name: Generate GitHub stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_github_stats.py dist
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -33,15 +43,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#714B67&color_dots=#EBEDF0,#E7D6E3,#C9A3C0,#9B6B91,#714B67
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C084FC&color_dots=#161B22,#3B2338,#5A3354,#8A4F80,#C58DB8
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Generate GitHub stats card
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/build_github_stats.py dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
