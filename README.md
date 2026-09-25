@@ -1,7 +1,10 @@
 <!-- Profile README for Usman Ghias · https://usmanghias.co.uk -->
 
 <a href="https://usmanghias.co.uk">
-  <img src="assets/brand/profile-hero-animated.gif" width="100%" alt="Usman Ghias - Lead Distributed Systems Architect & Enterprise ERP Engineer">
+  <picture>
+    <source type="image/webp" srcset="assets/brand/profile-hero-animated.webp">
+    <img src="assets/brand/profile-hero-animated.gif" width="100%" alt="Usman Ghias - Lead Distributed Systems Architect & Enterprise ERP Engineer">
+  </picture>
 </a>
 
 <div align="center">
