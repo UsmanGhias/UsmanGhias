@@ -18,8 +18,6 @@ I design and deliver production-grade ERP systems, integrations, business platfo
 <a href="https://www.linkedin.com/in/iusmanghias"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:iusmanghias@gmail.com?subject=Project%20enquiry%20for%20Usman%20Ghias"><img src="https://img.shields.io/badge/Discuss_a_Project-9333EA?style=for-the-badge" alt="Discuss a project by email"></a>
 
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/brand/proof-strip-dark.svg">
   <img src="assets/brand/proof-strip-light.svg" width="100%" alt="6+ years in production, 91+ Odoo implementations, 185+ projects delivered, 70+ clients, clients across 25+ countries, 4 production applications">
@@ -29,22 +27,9 @@ I design and deliver production-grade ERP systems, integrations, business platfo
 
 ## What I architect
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Odoo ERP Architecture</b><br><br>
-      Odoo 15–19, Python ORM, PostgreSQL, OWL, QWeb, Odoo.sh, migrations, reporting, BI and performance engineering.
-    </td>
-    <td width="33%" valign="top">
-      <b>Product Engineering</b><br><br>
-      Next.js, React, TypeScript, FastAPI, Flutter, offline-first applications and production APIs.
-    </td>
-    <td width="33%" valign="top">
-      <b>Integrations &amp; Data</b><br><br>
-      Commerce, logistics, payments, document processing, reporting, automation and external platforms.
-    </td>
-  </tr>
-</table>
+- **Odoo ERP architecture**: Odoo 15–19, Python ORM, PostgreSQL, OWL, QWeb, Odoo.sh, migrations, reporting, BI and performance engineering.
+- **Product engineering**: Next.js, React, TypeScript, FastAPI, Flutter, offline-first applications and production APIs.
+- **Integrations & data**: commerce, logistics, payments, document processing, reporting, automation and external platforms.
 
 ## Selected Odoo systems
 

@@ -20,9 +20,9 @@ PROOF = [
     ("6+", "Years in production"),
     ("91+", "Odoo implementations"),
     ("185+", "Projects delivered"),
-    ("70+", "Clients served"),
+    ("70+", "Clients"),
     ("25+", "Countries"),
-    ("4", "Production apps"),
+    ("4", "Production applications"),
 ]
 
 
@@ -33,16 +33,18 @@ def gradient(t):
 
 
 def proof_strip(t):
-    w, h, n = 1280, 132, len(PROOF)
-    col = w / n
+    # 3 x 2 grid so the figures stay legible when GitHub scales the image down on phones.
+    w, h, cols = 1280, 250, 3
+    col = w / cols
     cells = []
     for i, (num, label) in enumerate(PROOF):
-        cx = col * i + col / 2
+        cx, top = col * (i % cols) + col / 2, 18 + (i // cols) * 112
         cells.append(
-            f'<text x="{cx:.0f}" y="66" text-anchor="middle" font-size="40" font-weight="800" fill="url(#g)">{num}</text>'
-            f'<text x="{cx:.0f}" y="96" text-anchor="middle" font-size="15" font-weight="600" fill="{t["muted"]}">{label}</text>')
-        if i:
-            cells.append(f'<line x1="{col * i:.0f}" y1="34" x2="{col * i:.0f}" y2="100" stroke="{t["line"]}"/>')
+            f'<text x="{cx:.0f}" y="{top + 54}" text-anchor="middle" font-size="46" font-weight="800" fill="url(#g)">{num}</text>'
+            f'<text x="{cx:.0f}" y="{top + 86}" text-anchor="middle" font-size="19" font-weight="600" fill="{t["muted"]}">{label}</text>')
+    for i in (1, 2):
+        cells.append(f'<line x1="{col * i:.0f}" y1="32" x2="{col * i:.0f}" y2="{h - 32}" stroke="{t["line"]}"/>')
+    cells.append(f'<line x1="40" y1="{h / 2:.0f}" x2="{w - 40}" y2="{h / 2:.0f}" stroke="{t["line"]}"/>')
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
             f'role="img" aria-label="Career summary: ' + ", ".join(f"{a} {b.lower()}" for a, b in PROOF) + '">'
             f'<defs>{gradient(t)}</defs>'
