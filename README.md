@@ -2,9 +2,8 @@
 
 <a href="https://usmanghias.co.uk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/profile-hero-dark.webp">
-    <source media="(prefers-color-scheme: light)" srcset="assets/brand/profile-hero-light.webp">
-    <img src="assets/brand/profile-hero-dark.webp" width="100%" alt="Usman Ghias - Lead Distributed Systems Architect & Enterprise ERP Engineer">
+    <source type="image/webp" srcset="assets/brand/profile-hero-animated.webp">
+    <img src="assets/brand/profile-hero-animated.gif" width="100%" alt="Usman Ghias - Lead Distributed Systems Architect & Enterprise ERP Engineer">
   </picture>
 </a>
 
