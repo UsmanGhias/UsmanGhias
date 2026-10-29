@@ -88,6 +88,28 @@ Freelancers and agencies often juggle separate tools for CRM, tasks, timesheets,
 
 ---
 
+## Distributed systems research
+
+My research question comes from a production problem. A mobile ERP client goes offline for hours, keeps writing invoices, tasks and time entries across several related tables, and must reconcile with PostgreSQL later without silently losing or overwriting anyone's work. Last-write-wins loses data, and CRDTs are expensive on a low-end Android phone and awkward for relational rows.
+
+**Durable Edge-Outbox Synchronization: Managing Relational Divergence in Intermittent Mobile Enterprise Workloads**  
+Muhammad Usman Khan, Zenodo preprint, September 2026. [DOI 10.5281/zenodo.22843765](https://doi.org/10.5281/zenodo.22843765)
+
+The paper formalises the sync layer of CLIVORA (240 Dart source files, 90,868 lines, Drift/SQLite at schema version 18):
+
+- A durable transactional outbox. Every mutation gets a UUIDv4 idempotency key scoped to its owner and moves through a six-state automaton (pending, processing, retrying, conflicted, permanently_failed, completed) with exponential backoff capped at eight attempts.
+- Cloud reconciliation over a per-user WebSocket channel against PostgreSQL under row-level security, with a 500 ms sliding debounce that collapses bursts of change events into one pass.
+- Divergence is staged, never resolved silently. Conflicts land in `sync_conflict_entries` on the device and `crm_sync_conflicts` in PostgreSQL, with two deterministic operators, take-cloud and keep-local. Keep-local re-enqueues the local state as a new outbox operation, so every write to the cloud still goes through one authorised path.
+- In a seeded microbenchmark of the outbox model (10 trials of 1,000 operations), ingestion through durable SQLite WAL commit averaged 25.1 ms (SD 2.8 ms, p99 31.3 ms), and storage shrank to 9.1% of peak after post-sync tombstone sweeps.
+
+**Questions I want to work on in a PhD**
+
+- Exactly-once effects across an edge SQLite replica and a server PostgreSQL database, when the network, the app process and the server can each fail mid-operation.
+- Conflict detection that understands relational constraints (foreign keys, unique keys, ledger balance) instead of treating rows as independent documents.
+- ERP ledgers as a testbed for consistency under partition: which accounting invariants can be kept locally, and which need coordination.
+
+---
+
 ## Open-source engineering
 
 <img src="assets/brand/open-source-flow.webp" width="100%" alt="Open Source Engineering: Contributing practical improvements to Python tooling, release automation, database integrations, and developer infrastructure">
@@ -113,6 +135,14 @@ Freelancers and agencies often juggle separate tools for CRM, tasks, timesheets,
 - [progovoy/vmn #173](https://github.com/progovoy/vmn/pull/173): Added `--base` option to `vmn show` command.
 - [cubrid-lab/sqlalchemy-cubrid #455](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/455): Fixed dialect reflection error mapping for syntax errors.
 - [ehtishammubarik/websieve #47](https://github.com/ehtishammubarik/websieve/pull/47): Preserved code block indentation during page sanitization.
+
+**Merged upstream (2026):**
+- [strelov1/freehire #3688](https://github.com/strelov1/freehire/pull/3688): Added Odoo, DuckDB, DeepSeek, DSPy, LiteLLM, SGLang and Mastra to the skills dictionary (3.3k-star job aggregator).
+- [strelov1/freehire-mcp #11](https://github.com/strelov1/freehire-mcp/pull/11): Added `profile`, `contribute` and `my_contributions` tools to the MCP server for parity with the CLI.
+- [cubrid-lab/sqlalchemy-cubrid #732](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/732): Removed the Python 3.10 `asyncio.TimeoutError` branch from `is_disconnect`.
+- [00200200/repro-lens #55](https://github.com/00200200/repro-lens/pull/55) and [#100](https://github.com/00200200/repro-lens/pull/100): Reproducibility rules R118 (unseeded Polars sampling) and R127 (unseeded Hugging Face dataset shuffle).
+
+**In review:** [SectorLabs/django-postgres-extra #299](https://github.com/SectorLabs/django-postgres-extra/pull/299): prune `index_together` in `PostgresModelState.render` for Django 5.1+.
 
 ---
 
