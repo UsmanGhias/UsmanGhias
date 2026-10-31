@@ -26,6 +26,8 @@ Founder & Principal Architect at [CODCrafters](https://codcrafters.org) · Remot
 
 I design enterprise ERP systems, transaction backends, and offline-first mobile products. Over the past 6 years, I have delivered 91+ Odoo builds and 185+ total projects across Europe, the Middle East, and North America, reducing query response times by over 60% on multi-million row PostgreSQL databases.
 
+**Open to work now.** Odoo architect and senior backend roles, remote or in the GCC with sponsorship, available immediately. Also seeking PhD positions in distributed systems for the 2026/27 intake. [Email me](mailto:iusmanghias@gmail.com) or see [my portfolio](https://usmanghias.co.uk).
+
 ---
 
 ## What I architect
