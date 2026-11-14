@@ -9,6 +9,7 @@
 
 <div align="center">
   <a href="https://usmanghias.co.uk"><img src="https://img.shields.io/badge/Official_Portfolio-714B67?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"></a>
+  <a href="https://github.com/sponsors/UsmanGhias"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"></a>
   <a href="https://www.linkedin.com/in/iusmanghias"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:iusmanghias@gmail.com?subject=Project%20enquiry%20for%20Usman%20Ghias"><img src="https://img.shields.io/badge/Discuss_a_Project-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Discuss a project by email"></a>
   <a href="https://github.com/UsmanGhias"><img src="https://komarev.com/ghpvc/?username=usmanghias&style=for-the-badge&color=38BDF8&labelColor=0B1120&label=PROFILE+VIEWS" alt="Profile Views"></a>
@@ -26,7 +27,10 @@ Founder & Principal Architect at [CODCrafters](https://codcrafters.org) · Remot
 
 I design enterprise ERP systems, transaction backends, and offline-first mobile products. Over the past 6 years, I have delivered 91+ Odoo builds and 185+ total projects across Europe, the Middle East, and North America, reducing query response times by over 60% on multi-million row PostgreSQL databases.
 
-**Open to work now.** Odoo architect and senior backend roles, remote or in the GCC with sponsorship, available immediately. Also seeking PhD positions in distributed systems for the 2026/27 intake. [Email me](mailto:iusmanghias@gmail.com) or see [my portfolio](https://usmanghias.co.uk).
+> [!TIP]
+> **Open to Work & Available for Technical Architecture Consulting**  
+> Senior Odoo Architect & Distributed Systems Engineer available immediately (Remote or GCC). I assist companies with enterprise ERP implementations, headless Next.js customer portals, ZATCA Phase 2 compliance, and offline sync engines. Also seeking PhD positions in distributed systems for the 2026/27 intake.  
+> [View Live Portfolio](https://usmanghias.co.uk) · [Schedule Consultation](https://usmanghias.co.uk) · [Email: iusmanghias@gmail.com](mailto:iusmanghias@gmail.com)
 
 ---
 
@@ -66,11 +70,13 @@ I design enterprise ERP systems, transaction backends, and offline-first mobile 
 
 <img src="assets/work/clivora-product-ecosystem.webp" width="100%" alt="CLIVORA product ecosystem: Android application, web console, and connected workspace modules">
 
-#### [CLIVORA](https://clivora.io): Offline-First Freelancer & Agency Workspace
-Freelancers and agencies often juggle separate tools for CRM, tasks, timesheets, and invoicing. CLIVORA combines these into one synchronized workspace on Web and Android.
+#### [CLIVORA](https://clivora.io): Open-Source Offline-First Freelancer & Agency Workspace
+Freelancers and agencies often juggle separate tools for CRM, tasks, timesheets, and invoicing. CLIVORA combines these into one synchronized workspace on Web and Android with zero platform fees.
 - **Role**: Founder and Principal Architect; designed full backend, database schemas, and mobile sync engine.
-- **Architecture**: Flutter mobile client with offline-first local storage (Hive + SQLite) syncing with Next.js web console and REST endpoints.
-- **Availability**: Live at [clivora.io](https://clivora.io) and published on [Google Play](https://play.google.com/store/apps/details?id=org.codcrafters.clivora).
+- **Open-Source Repositories**:
+  - Web & Operations Portal: [UsmanGhias/clivora-web](https://github.com/UsmanGhias/clivora-web) (Next.js 15, TypeScript, Supabase)
+  - Mobile Client: [UsmanGhias/clivora](https://github.com/UsmanGhias/clivora) (Flutter, Offline-first SQLite Outbox Sync)
+- **Live Ecosystem**: Live at [clivora.io](https://clivora.io) · [Google Play](https://play.google.com/store/apps/details?id=org.codcrafters.clivora) · [Open Source Hub](https://clivora.io/open-source)
 
 ---
 
